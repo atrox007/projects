@@ -1,0 +1,1 @@
+https://medium.com/@ashutosh1kumar007/running-web-app-wordpress-on-google-cloud-platform-gcp-using-kubernetes-with-mysql-database-a12c366ea6e7
